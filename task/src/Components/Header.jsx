@@ -3,15 +3,19 @@ import Omega from '../Assests/omega-copy.png';
 import Book  from '../Assests/b-1.png';
 import Path from '../Assests/path_2.png';
 import Oval from '../Assests/oval.png';
+import Headbody from "./Headbody" 
+
 
 import './Header.css'
+import Middlebody from './Middlebody';
 
 
 export default class Header extends Component {
 
     render() {
       return (
-        <>  
+          <>
+        <div className='part1'>  
         <nav className='nav'>
         <img className='image' src={Omega} alt="" />
         <div className= 'list'>
@@ -59,6 +63,9 @@ export default class Header extends Component {
             <p className='taylor'>Jonathan Taylor</p>
             </div>
             </div> 
+        </div>
+        <Headbody/>
+        <Middlebody/>
         </div>
         </>
       )
