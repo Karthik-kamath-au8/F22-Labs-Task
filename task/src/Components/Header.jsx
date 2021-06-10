@@ -11,6 +11,8 @@ import Middlebody from './Middlebody';
 import Tailbody from './Tailbody';
 import Authur from './Author';
 import Price from './Price';
+import Tail from './Tail';
+import Footer from './Footer';
 
 
 export default class Header extends Component {
@@ -72,6 +74,8 @@ export default class Header extends Component {
         <Tailbody/>
         <Authur/>
         <Price/>
+        <Tail/>
+        <Footer/>
         </div>
         </>
       )

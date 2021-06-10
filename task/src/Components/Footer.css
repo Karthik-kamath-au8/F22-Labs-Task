@@ -1,0 +1,47 @@
+.footername{
+    width: 71px;
+    height: 28px;
+    margin: 4px 210px 2px 0;
+    font-family: CircularStd;
+    font-size: 21.6px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.68px;
+    color: #19191b;
+    padding-left: 20px;
+}
+.spt{
+    display: flex;
+    padding-left: 20px;
+}
+.spt p{
+    font-family: CircularStd;
+    font-size: 14.4px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.38;
+    letter-spacing: -0.45px;
+    text-align: center;
+    color: #19191b;
+    padding-left: 20px;
+}
+.Footer{
+    display: flex;
+    align-items: center;
+}
+.cc{
+   padding-left: 250px !important;
+   font-family: CircularStd;
+    font-size: 14.4px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.38;
+    letter-spacing: -0.45px;
+    text-align: center;
+    color: #19191b;
+    padding-left: 20px;
+}

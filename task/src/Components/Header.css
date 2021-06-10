@@ -44,6 +44,15 @@ button {
   border: solid 0.9px #c31a12;
   background-color: #f0544c;
   margin-right: 15.5px;
+  font-family: CircularStd;
+  font-size: 18.9px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.59px;
+  text-align: center;
+  color: #ffffff;
 }
 .bookheader{
     display: flex;
