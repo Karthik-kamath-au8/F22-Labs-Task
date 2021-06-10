@@ -1,0 +1,187 @@
+.part6{
+    min-width: 100vw;
+    background-color: #413e65;
+    padding-bottom: 100px;
+}
+.price{
+    /* margin: 0 0 16px; */
+    font-family: CircularStd;
+    font-size: 54px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -1.69px;
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 0;
+}
+.pricevalue{
+    font-family: CircularStd;
+    font-size: 18.9px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.86;
+    letter-spacing: -0.59px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.7);
+    margin: 0%;
+}
+.pricerectangle{
+    width: 315px;
+  height: 397px;
+  margin: 52px 27px 0 0;
+  padding: 32px 10px 11px;
+  border-radius: 9px;
+  border: solid 0.9px #eae9f2;
+  background-color: #ffffff;
+}
+.pricecard{
+    display: flex;
+    justify-content: center;
+}
+.limited{
+    font-family: CircularStd;
+    font-size: 14.4px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: -0.45px;
+    text-align: center;
+    color: #5454d4;
+}
+.pricefree{
+    font-family: CircularStd;
+    font-size: 54px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.93;
+    letter-spacing: -0.93px;
+    text-align: center;
+    color: #1d293f;
+    margin: 0;
+}
+.pricechapter{
+    width: 236px;
+  height: 70.2px;
+    margin: 26px 29px 41.8px 30px;
+    font-family: CircularStd;
+    font-size: 18.9px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.86;
+    letter-spacing: -0.59px;
+    text-align: center;
+    color: #19191b;
+}
+.email{
+    width: 294px;
+  height: 54px;
+  /* padding: 17px 99px 17px 18px; */
+  border-radius: 9px;
+  border: solid 0.9px #eae9f2;
+  background-color: #f7f7fb;;
+  padding-top: 17px;
+}
+.pricebutton{
+    width: 294px;
+  height: 54px;
+  padding: 15px 35px;
+  border-radius: 4.5px;
+  border: solid 0.9px #3d3dad;
+  background-color:#5454d4;
+  font-family: CircularStd;
+  font-size: 18.9px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.59px;
+  text-align: center;
+  color: #ffffff;
+}
+.pricepur{
+    font-family: CircularStd;
+  font-size: 16.2px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: -0.51px;
+  text-align: center;
+  color: #696871;
+}
+.pricebutton1{
+    width: 294px;
+    height: 54px;
+    padding: 15px 35px;
+    border-radius: 4.5px;
+    border: solid 0.9px #c31a12;
+    background-color: #f0544c;
+    font-family: CircularStd;
+  font-size: 18.9px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.59px;
+  text-align: center;
+  color: #ffffff;
+}
+.btn4{
+    padding-top: 50px;
+}
+.tailprice{
+    width: 27px;
+    height: 27px;
+    margin: 5px 19px 13px 0;
+    /* padding: 10px; */
+    background-color: #5454d4;
+    border-radius: 50%;
+    text-align: center;
+}
+.tailprice img{
+    padding-top: 6px;
+    
+}
+.tailarrow{
+    /* padding-left: 200px; */
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.tailaction{
+    display: flex;
+    align-items: center;
+}
+.tailvl{
+    font-family: CircularStd;
+    font-size: 21.6px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.68px;
+    color: #ffffff;
+    margin: 0;
+}
+.tailans{
+    font-family: CircularStd;
+    font-size: 14.4px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: -0.45px;
+    color: rgba(255, 255, 255, 0.7);
+    margin: 0;
+}
+.taillast{
+    display: flex;
+    flex-direction: column;
+    text-align: initial;
+}

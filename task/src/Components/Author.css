@@ -1,0 +1,44 @@
+.part4{
+    min-width: 100vw;
+}
+.Author{
+    font-family: CircularStd;
+    font-size: 54px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -1.69px;
+    text-align: center;
+    color: #19191b;
+}
+.authurintro{
+    display: flex;
+    margin-left: 200px;
+}
+.authurname{
+    font-family: CircularStd;
+  font-size: 21.6px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.68px;
+  text-align: left;
+  color: #19191b;
+}
+.authurbio{
+    width: 509px;
+  height: 252px;
+    font-family: CircularStd;
+    font-size: 14.4px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: -0.45px;
+    color: #696871;
+}
+.authurcomment{
+    margin-left:30px
+}

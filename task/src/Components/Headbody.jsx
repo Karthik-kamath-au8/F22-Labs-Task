@@ -10,7 +10,7 @@ export default class Headbody extends Component {
 
     render(){
         return(
-            <>
+            <div className="part0">
             <div>
                 <p className='titled'>
                 Chapters we’ve covered
@@ -45,7 +45,7 @@ export default class Headbody extends Component {
                     <p className="solveans">With lots of unique blocks, you can easily build a page without coding. Build your next landing page quickly.</p>
                 </div>
             </div>
-            </>
+            </div>
         )
     }
 }    

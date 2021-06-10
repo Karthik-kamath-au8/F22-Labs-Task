@@ -8,6 +8,9 @@ import Headbody from "./Headbody"
 
 import './Header.css'
 import Middlebody from './Middlebody';
+import Tailbody from './Tailbody';
+import Authur from './Author';
+import Price from './Price';
 
 
 export default class Header extends Component {
@@ -66,6 +69,9 @@ export default class Header extends Component {
         </div>
         <Headbody/>
         <Middlebody/>
+        <Tailbody/>
+        <Authur/>
+        <Price/>
         </div>
         </>
       )

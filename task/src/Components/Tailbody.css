@@ -1,0 +1,89 @@
+.part3{
+min-width: 100vw;
+}
+.Reviews{
+    font-family: CircularStd;
+    font-size: 54px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -1.69px;
+    text-align: center;
+    color: #19191b;
+    margin-bottom: 0;
+}
+.Reviewsvalue{
+    font-family: CircularStd;
+  font-size: 18.9px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: -0.59px;
+  text-align: center;
+  color: #696871;
+}
+.reviewcard{
+    width: 315px;
+    height: 363px;
+    margin: 56px 27px 48px 27px;
+    padding: 35px 16px 31px 33px;
+    border-radius: 9px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.04);
+    background-color: #ffffff;
+}
+.card{
+    display: flex;
+}
+.reviewvalue{
+    margin: 27px 0 29px;
+  font-family: CircularStd;
+  font-size: 18.9px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: italic;
+  line-height: 1.86;
+  letter-spacing: -0.59px;
+  color: #19191b; 
+}
+.Reviewname{
+    font-family: CircularStd;
+    font-size: 18.9px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.59px;
+    color: #19191b;
+    margin: 0;
+}
+.Reviewcomp{
+    font-family: CircularStd;
+    font-size: 14.4px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: -0.45px;
+    color: #696871;
+    margin: 0;
+}
+.reviewlast{
+    display: flex;
+}
+.reviewlast1{
+    display: flex;
+    padding-top: 60px;
+}
+.linkss{
+    font-family: CircularStd;
+    font-size: 14.4px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.45px;
+    text-align: center;
+    color:#5454d4;
+}
