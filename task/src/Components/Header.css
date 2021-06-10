@@ -1,0 +1,132 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 15.5px !important;
+  align-items: center;
+}
+.image {
+  /* width: 71px;
+  height: 28px; */
+  /* margin: 5px 516px 8px 0; */
+  object-fit: contain;
+  font-family: CircularStd;
+  font-size: 21.6px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.68px;
+  color: #19191b;
+  float: left !important;
+  padding-left: 30px !important;
+}
+.list {
+  display: flex;
+  padding-right: 20px;
+}
+.list p {
+  padding: 5px;
+}
+.active {
+  color: #5454d4;
+}
+button {
+  width: 131px;
+  height: 41px;
+  padding: 12px 0 11px;
+  border-radius: 4.5px;
+  border: solid 0.9px #c31a12;
+  background-color: #f0544c;
+  margin-right: 15.5px;
+}
+.bookheader{
+    display: flex;
+}
+.bookimage {
+  float: left;
+  padding-top: 124px;
+  margin-left: -90px;
+  /* width: 400px; */
+}
+.Solve-your-daily-lif {
+  width: 513px;
+  height: 126px;
+  margin: 0 0 30px;
+  font-family: CircularStd;
+  font-size: 47px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: -1.69px;
+  color: #19191b;
+  padding-top: 146px;
+}
+.ovpath{
+    display: flex;
+    align-items: center;
+    padding-left: 90px;
+}
+.path{
+    color:#5454d4;
+}
+.oval{
+    width: 22px;
+  height: 22px;
+  margin: 3px 10px 0 0;
+  padding: 8px 6px 7px;
+  opacity: 0.1;
+  background-color: #5454d4;
+  border-radius: 50%;
+}
+.btn{
+    width: 293px;
+  height: 54px;
+  margin: 0 0 16px;
+  padding: 15px 0;
+  border-radius: 4.5px;
+  border: solid 0.9px #c31a12;
+  background-color: #f0544c;
+  font-family: CircularStd;
+  font-size: 18.9px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.59px;
+  text-align: center;
+  color: #ffffff;
+}
+.price{
+    padding-top: 50px;
+}
+.ovalComment{
+    display: flex;
+    align-items: center;
+    padding-left: 240px;
+}
+.taylor{
+    font-family: CircularStd;
+    font-size: 18.9px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: -0.59px;
+    color: #19191b;
+    margin: 0;
+    padding-left: 25px;
+    float: left;
+}
+.quote{
+    font-family: CircularStd;
+  font-size: 18.9px;
+  font-weight: normal;
+  font-stretch: normal;
+  margin: 0;
+  padding-left: 25px;
+  font-style: italic;
+  line-height: 1.86;
+  letter-spacing: -0.59px;
+  color: #19191b;
+}
