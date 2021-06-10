@@ -1,3 +1,6 @@
+.part2{
+    background-color: #f2f2f3;
+}
 .thingsheader{
     display: flex;
     flex-direction: column;
@@ -31,6 +34,9 @@
     padding-bottom: 57px;
 }
 .rectangle1{
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
     width: 315px;
     height: 80px;
     border-radius: 9px;
@@ -41,4 +47,122 @@
     display: flex;
     justify-content: space-around;
     padding-bottom: 27px;
+}
+.rectanglepath{
+    width: 27px;
+    height: 27px;
+    /* margin: 12px 15px 9px 0; */
+    /* padding: 10px 7px 8px 8px; */
+    background-color: #5454d4;
+    border-radius: 50%;
+}
+.wholep{
+    font-family: CircularStd;
+  font-size: 18.9px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.59px;
+  color: #19191b;
+  padding-left: 10px;
+}
+
+.freerectangle{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 999px;
+    height: 180px;
+    margin: 98.2px 50px;
+    /* padding: 32px 50px 27px 10px; */
+    border-radius: 9px;
+    box-shadow: 0 47px 49px 0 rgba(65, 62, 101, 0.3);
+    background-color: #413e65;
+}
+.freebook{
+    float: left;
+    padding-top: 32px;
+}
+.getbook{
+    width: 601px;
+  height: 28px;
+  /* margin: 14px 172px 11px 44px; */
+  padding-top: 46px;
+    font-family: CircularStd;
+    font-size: 21.6px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.68px;
+    color: #ffffff;
+    margin-left: -167px;
+    margin-block: auto;
+}
+.getbookvalue{
+    width: 372px;
+    height: 50px;
+    /* margin: 11px 182px 18px 44px; */
+    font-family: CircularStd;
+    /* padding-left: 200px; */
+    font-size: 16.2px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: -0.51px;
+    color: rgba(255, 255, 255, 0.7);
+}
+.btnbook{
+    width: 219px;
+    height: 54px;
+    float: right;
+    font-family: CircularStd;
+    font-size: 18.9px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.59px;
+    text-align: center;
+    color: #ffffff;
+}
+.displayfree{
+    display: flex;
+    flex-direction: column;
+}
+.peoplenumb{
+    width: 125px;
+    height: 63px;
+    margin: 0 72px 16px 86px;
+    font-family: CircularStd;
+    font-size: 54px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -1.69px;
+    text-align: center;
+    color: #5454d4;
+}
+.peoplevalue{
+    width: 283px;
+    height: 70px;
+    margin: 16px 0 0;
+    font-family: CircularStd;
+    font-size: 18.9px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.86;
+    letter-spacing: -0.59px;
+    text-align: center;
+    color: #696871;
+}
+.peoplelast{
+    display: flex;
+}
+.indi{
+    padding-left: 68px;
 }
