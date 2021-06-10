@@ -1,6 +1,6 @@
 .part2{
     background-color: #f2f2f3;
-    min-width: 100vw;
+    /* min-width: 100vw; */
 }
 .thingsheader{
     display: flex;
@@ -47,7 +47,7 @@
 }
 .wholegrid{
     display: flex;
-    width: 1045px;
+    /* width: 1045px; */
     /* justify-content: center; */
     padding: 0px 150px;
 }
@@ -75,7 +75,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 999px;
+    /* width: 999px; */
     height: 180px;
     margin: 98.2px 170px;
     /* padding: 32px 50px 27px 10px; */
@@ -130,6 +130,16 @@
     letter-spacing: -0.59px;
     text-align: center;
     color: #ffffff;
+    width: 219px;
+    height: 54px;
+    /* margin: 33px 0 34px 182px; */
+    /* padding: 15px 3
+    6px;
+     */
+    border-radius: 4.5px;
+    border: solid 0.9px #c31a12;
+    background-color: #f0544c;
+    margin-right: 15.5px;
 }
 .displayfree{
     display: flex;

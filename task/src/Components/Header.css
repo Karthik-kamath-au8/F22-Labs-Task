@@ -1,8 +1,11 @@
-.part1{
-    background-color: #f6f6f8;
-    border-bottom: solid 0.9px #eae9f2;
-    min-width: 100vw;
-
+.all{
+  display: flex;
+  flex-direction: column;
+  width: fit-content !important;
+}
+.part1 {
+  background-color: #f6f6f8;
+  border-bottom: solid 0.9px #eae9f2;
 }
 .nav {
   display: flex;
@@ -36,7 +39,7 @@
 .active {
   color: #5454d4;
 }
-button {
+.btttn {
   width: 131px;
   height: 41px;
   padding: 12px 0 11px;
@@ -54,8 +57,8 @@ button {
   text-align: center;
   color: #ffffff;
 }
-.bookheader{
-    display: flex;
+.bookheader {
+  display: flex;
 }
 .bookimage {
   float: left;
@@ -77,16 +80,16 @@ button {
   color: #19191b;
   padding-top: 146px;
 }
-.ovpath{
-    display: flex;
-    align-items: center;
-    padding-left: 90px;
+.ovpath {
+  display: flex;
+  align-items: center;
+  padding-left: 90px;
 }
-.path{
-    color:#5454d4;
+.path {
+  color: #5454d4;
 }
-.oval{
-    width: 22px;
+.oval {
+  width: 22px;
   height: 22px;
   margin: 3px 10px 0 0;
   padding: 8px 6px 7px;
@@ -94,8 +97,8 @@ button {
   background-color: #5454d4;
   border-radius: 50%;
 }
-.btn{
-    width: 293px;
+.btn {
+  width: 293px;
   height: 54px;
   margin: 0 0 16px;
   padding: 15px 0;
@@ -112,29 +115,29 @@ button {
   text-align: center;
   color: #ffffff;
 }
-.price{
-    padding-top: 50px;
+.price {
+  padding-top: 50px;
 }
-.ovalComment{
-    display: flex;
-    align-items: center;
-    padding-left: 240px;
+.ovalComment {
+  display: flex;
+  align-items: center;
+  padding-left: 240px;
 }
-.taylor{
-    font-family: CircularStd;
-    font-size: 18.9px;
-    font-weight: bold;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.33;
-    letter-spacing: -0.59px;
-    color: #19191b;
-    margin: 0;
-    padding-left: 25px;
-    float: left;
+.taylor {
+  font-family: CircularStd;
+  font-size: 18.9px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: -0.59px;
+  color: #19191b;
+  margin: 0;
+  padding-left: 25px;
+  float: left;
 }
-.quote{
-    font-family: CircularStd;
+.quote {
+  font-family: CircularStd;
   font-size: 18.9px;
   font-weight: normal;
   font-stretch: normal;

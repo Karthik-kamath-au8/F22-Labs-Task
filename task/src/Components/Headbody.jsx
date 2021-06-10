@@ -26,7 +26,6 @@ export default class Headbody extends Component {
                 <p className='problem'>What is problem solving?</p>
                 <p className='problemans'>Create custom landing pages with Omega that converts more visitors than any website. With lots of unique blocks, you can easily build a page without coding.</p>
                 </div>
-
             </div>
             <div className="laydisplay">
                 <div className='laysolv'>

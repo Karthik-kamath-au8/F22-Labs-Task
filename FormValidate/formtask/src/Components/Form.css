@@ -1,0 +1,76 @@
+.sign {
+  margin: 0 114px 10px 116px;
+  font-family: CircularStd;
+  font-size: 60px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.93;
+  letter-spacing: -1.03px;
+  text-align: center;
+  color: #1d293f;
+}
+.sigb {
+  font-family: CircularStd;
+  font-size: 21px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: -0.66px;
+  text-align: center;
+  color: #696871;
+}
+
+#email,
+#password {
+  width: 413px;
+  height: 73px;
+  margin: 37px 1px 17px;
+  /* padding: 27px 281px 23px 27px; */
+  border-radius: 10px;
+  border: solid 1px #eae9f2;
+  background-color: #ffffff;
+}
+.email,
+.password {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+button {
+  width: 414px;
+  height: 60px;
+  padding: 17px 107px 16px 106px;
+  border-radius: 10px;
+  border: solid 1px #c31a12;
+  background-color: #f04037;
+  font-size: 21px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.66px;
+  text-align: center;
+  color: #ffffff;
+}
+.butn,.acc {
+  display: flex;
+  justify-content: center;
+}
+
+.error {
+  color: #c31a12;
+  height: 20px;
+  margin-left: -200px;
+}
+.errors{
+    color: #c31a12;
+    height: 20px;
+    margin-left: -329px;
+    padding-bottom: 20px;
+
+}
+.ERROR {
+  float: left;
+}

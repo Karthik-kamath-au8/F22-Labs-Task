@@ -19,8 +19,8 @@ export default class Header extends Component {
 
     render() {
       return (
-          <>
-        <div className='part1'>  
+        <div className="all">  
+        <div className='part1'>
         <nav className='nav'>
         <img className='image' src={Omega} alt="" />
         <div className= 'list'>
@@ -28,7 +28,7 @@ export default class Header extends Component {
           <p>Pages</p>
           <p>Support</p>
         </div>
-        <button>Get this Book</button>
+        <button className="btttn">Get this Book</button>
         </nav>
         <div className="bookheader">
             <img className='bookimage' src={Book} alt=''/>
@@ -68,6 +68,7 @@ export default class Header extends Component {
             <p className='taylor'>Jonathan Taylor</p>
             </div>
             </div> 
+            </div>
         </div>
         <Headbody/>
         <Middlebody/>
@@ -77,7 +78,6 @@ export default class Header extends Component {
         <Tail/>
         <Footer/>
         </div>
-        </>
       )
     }
   
